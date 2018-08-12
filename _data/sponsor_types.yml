@@ -1,0 +1,23 @@
+- name: gold 
+  description: Gold Sponsors
+  order: 1
+
+- name: bronze 
+  description: Bronze Sponsors
+  order: 3 
+
+- name: venue 
+  description: Venue Sponsors
+  order: 2
+
+- name: video
+  description: Video Sponsors
+  order: 4
+
+- name: community
+  description: Supporting the community
+  order: 5
+
+- name: prize 
+  description: Prize Sponsors
+  order: 6

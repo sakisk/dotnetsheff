@@ -1,72 +1,72 @@
 - name: Raygun
-  type: Gold Sponsor
+  type: gold
   description: Raygun gives continuous support for events.
   image: raygun.png
   website: https://raygun.com/
   
 - name: endjin
-  type: Bronze Sponsor
+  type: bronze
   description: endjin ad hocly supports events.
   image: endjin.png
   website: https://endjin.com/
 
 - name: 3Squared
-  type: Bronze Sponsor
+  type: bronze
   description: 3Squared ad hocly supports events.
   image: 3squared.png
   website: https://www.3squared.com/
 
 - name: CherSoft
-  type: Bronze Sponsor
+  type: bronze
   description: CherSoft ad hocly supports events.
   image: chersoft.png
   website: https://chersoft.com/
   
 - name: BigChange Apps
-  type: Bronze Sponsor
+  type: bronze
   description: BigChange ad hocly supports events.
   image: bigchange-apps.png
   website: https://www.bigchangeapps.com/
 
 - name: Razor
-  type: Bronze Sponsor
+  type: bronze
   description: Razor ad hocly supports events.
   image: razor.png
   website: https://www.razor.co.uk/
 
 - name: Redgate
-  type: Bronze Sponsor
+  type: bronze
   description: Redgate ad hocly supports events.
   image: redgate.png
   website: https://www.red-gate.com/
 
 - name: Sheffield Hallam University
-  type: Venue Sponsor
+  type: venue
   description: Sheffield Hallam University provide venue arrangements to make it possible to host our events every month.
   image: sheffield_hallam_university.jpg
   website: https://www.shu.ac.uk/
 
 
 - name: Pusher
-  type: Video Sponsor
+  type: video
   description: Pusher support us to video, edit and publish our videos online.
   image: pusher.png
   website: https://pusher.com/
 
 - name: .NET Foundation
-  type: Supporting the community
+  type: community
   description: The .NET Foundation is an independent organization to foster open development and collaboration around the .NET ecosystem.
   image: dot-net-foundation-logo.png
   website: https://dotnetfoundation.org/
 
 - name: Jetbrains
-  type: Prize Sponsor
+  type: prize
   description: Jetbrains provide free giveaway licenses.
   image: jetbrains.jpg
   website: https://www.jetbrains.com/
   
 - name: PostSharp
-  type: Prize Sponsor
+  type: prize
   description: PostSharp provide free giveaway licenses and Starbucks cards
   image: postsharp.png
   website: https://www.postsharp.net/
